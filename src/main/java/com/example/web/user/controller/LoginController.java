@@ -5,7 +5,7 @@ package com.example.web.user.controller;
  *
  * @author hxr 2024/4/7 14:00
  */
-public class LoginController {
 
+public class LoginController {
 
 } 
